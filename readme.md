@@ -1,0 +1,1 @@
+This project provides a fast and efficient way to create bitmap objects using LuaJIT's FFI (Foreign Function Interface) methods. You can generate bitmap images either through a pipe or save them directly into a file, making it suitable for various applications that require rapid bitmap generation.
